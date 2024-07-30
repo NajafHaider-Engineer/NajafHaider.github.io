@@ -1,12 +1,12 @@
-# NajafHaider.github.io
-Research Assistant
+# Syed Najaf Haider Shah
+
 I am Najaf, a Marie Curie PhD Fellow. I received my B.Eng. degree in Electrical Engineering from the National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2017 and my Masters degree in Electrical Engineering with majors in digital and wireless communication systems from Information Technology University (ITU), Lahore, Pakistan in 2020. In my masters thesis, I proposed a fully coherent receiver architecture of the Joint Communication and Sensing (JCAS) system.
 
 Currently, I am pursuing my PhD within H2020 MSCA project ITN-5VC. I am associated with EMS, a research group at Technische Universität Ilmenau (TU Ilmenau), Germany.
 
 # Experience
-Experience
-Research Engineer Intern @ Casa System, Valencia, Spain                                                  Apr 2023 - Dec 2023
+Research Engineer Intern @ Casa System, Valencia, Spain                                                  
+Apr 2023 - Dec 2023<br>
 -Investigated the challenges in radio resource management for a multiuser ISACcapable V2X network.
 -Proposed novel QoS-aware radio resource allocation techniques in a multiuser ISAC-capable V2X network to reduce signaling and resource overhead, mitigate mutual interference and resource collisions, and ease resource competition between communication and radar.
 -Developed low-complexity compressed sensing-based algorithms for detecting weak and closely spaced off-grid targets in a mobile ISAC scenario.
